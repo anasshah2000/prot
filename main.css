@@ -29,11 +29,11 @@
 
 .circle:nth-child(1) {
   background: linear-gradient(90deg, transparent 50%, rgb(165, 201, 106) 50%);
-  width: 34rem;
+  width: 26rem;
 }
 
 .circle:nth-child(2) {
-  width: 28rem;
+  width: 21rem;
   background-image: url("anas.jpg");
   background-size: 90%;
   background-repeat: no-repeat;
